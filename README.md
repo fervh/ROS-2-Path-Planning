@@ -13,7 +13,7 @@ Este es un workspace de ROS 2 que se utiliza para la planificación de rutas uti
 Asegúrate de que tengas ROS 2 instalado y configurado correctamente en tu sistema. Luego, clona este repositorio en tu espacio de trabajo de ROS 2 y compila los paquetes.
 
 ```bash
-git clone <URL del repositorio>
+git clone https://github.com/fervh/ROS-2-Path-Planning.git
 
 cd ws
 

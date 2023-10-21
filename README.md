@@ -1,6 +1,6 @@
 # ROS 2 Path Planning
 
-Este es un workspace de ROS 2 que se utiliza para la planificación de rutas utilizando los algoritmos BFS, GREEDY y ASTAR. El paquete `planification` contiene los nodos y scripts necesarios para generar mapas y ejecutar la planificación de rutas.
+Este es un workspace de ROS 2 que se utiliza para la planificación de rutas utilizando los algoritmos BFS, GREEDY y ASTAR. El paquete `ws/src/planification` contiene los nodos de ROS y scripts necesarios para generar mapas y ejecutar la planificación de rutas.
 
 **Autor: Fernando Vela Hidalgo** (GitHub: [github.com/fervh](https://github.com/fervh))
 

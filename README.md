@@ -80,4 +80,4 @@ En general, los resultados indican que el algoritmo Greedy es el más rápido en
 
 3. Breadth-First Search (BFS):
 
-    BFS es el más lento de los tres porque explora sistemáticamente todos los nodos en un nivel antes de avanzar al siguiente nivel. Esto garantiza que encuentre una solución óptima si existe, pero puede ser muy ineficiente en términos de tiempo y memoria, especialmente en espacios de búsqueda grandes (tal y como se aprecia en el mapa más granda, el map13).
+    BFS es el más lento de los tres porque explora sistemáticamente todos los nodos en un nivel antes de avanzar al siguiente nivel. Esto garantiza que encuentre una solución óptima si existe, pero puede ser muy ineficiente en términos de tiempo y memoria, especialmente en espacios de búsqueda grandes (tal y como se aprecia en el mapa más grande, el map13).

@@ -2,6 +2,10 @@
 
 Este es un workspace de ROS 2 que se utiliza para la planificación de rutas utilizando los algoritmos BFS, GREEDY y ASTAR. El paquete `planification` contiene los nodos y scripts necesarios para generar mapas y ejecutar la planificación de rutas.
 
+**Autor: Fernando Vela Hidalgo** (GitHub: [github.com/fervh](https://github.com/fervh))
+
+Este proyecto es parte de la asignatura "Introducción a la Planificación de Robots" en la Universidad Carlos III de Madrid (UC3M).
+
 ## Requisitos
 
 - ROS 2 Foxy o superior (En mi caso he utilizado ROS 2 GALACTIC)

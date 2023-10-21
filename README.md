@@ -51,7 +51,7 @@ Una vez ejecutado, puedes utilizar `Publish Point` para establecer los puntos de
 ![Ejemplo](media/img6.png)
 [VIDEO EJEMPLO](media/video1.mp4)
 
-## Comparación de Algoritmos de Búsqueda en Mapas
+## Comparación de Tiempos y Eficiencia de los distintos Algoritmos
 
 A continuación se hace una comparación de los tres algoritmos de búsqueda: BFS (Breadth-First Search), A* y Greedy, en varios mapas. Los tiempos de ejecución se presentan a continuación, además los puedes encontrar en el archivo siguiente archivo [EXCEL](media/comparaciondetiempos.ods).
 

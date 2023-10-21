@@ -45,8 +45,8 @@ Asegúrate de reemplazar `bfs` con el algoritmo que deseas utilizar: `bfs`, `gre
 
 Una vez ejecutado, puedes utilizar `Publish Point` para establecer los puntos de inicio y final de la ruta
 
-![Publish Point](/media/img1.png)
+![Publish Point](media/img1.png)
 
 ### Ejemplo de la Planificación de Rutas
-![Ejemplo](/media/img6.png)
-[VIDEO EJEMPLO](/media/video1.mp4)
+![Ejemplo](media/img6.png)
+[VIDEO EJEMPLO](media/video1.mp4)

@@ -1,3 +1,12 @@
+"""
+Autor: Fernando Vela Hidalgo (https://github.com/fervh)
+Asignatura: Introducción a la Planificación de Robots
+Universidad: Universidad Carlos III de Madrid (UC3M)
+Fecha: Octubre 2023
+
+Descripción:
+Este es el código launch principal, cuya función es poder ejecutar múltiples nodos de manera simultánea.
+"""
 import launch
 from launch import LaunchDescription
 from launch.actions import DeclareLaunchArgument, LogInfo

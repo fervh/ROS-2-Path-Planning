@@ -54,13 +54,17 @@ class BFSSolverNode(Node):
 
     def end_callback(self, msg):
         self.end_point = msg
-        if self.start_point is not None and self.grid is not None:
-            self.solve()
+
 
     def grid_callback(self, msg):
         self.grid = msg
         if self.start_point is not None and self.end_point is not None:
+            start_time = time.time()  # Registra el tiempo de inicio.
             self.solve()
+            end_time = time.time()  # Registra el tiempo de finalización.
+            elapsed_time = end_time - start_time
+            self.get_logger().info(f'Time={elapsed_time:.4f} ; Start Point= ({self.start_point.point.x:.2f}, {self.start_point.point.y:.2f}) ; End Point = ({self.end_point.point.x:.2f}, {self.end_point.point.y:.2f})')
+
 
     # Función para resolver el problema BFS.
     def solve(self):
